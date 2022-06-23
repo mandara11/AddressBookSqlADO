@@ -1,0 +1,2 @@
+C:\Users\DELL\source\repos\ABook_DBConnection\ABTestProject\obj\Debug\ABTestProject.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ABook_DBConnection\ABTestProject\obj\Debug\ABTestProject.csproj.CoreCompileInputs.cache

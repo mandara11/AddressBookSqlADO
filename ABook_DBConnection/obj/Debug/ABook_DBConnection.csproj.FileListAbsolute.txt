@@ -1,0 +1,8 @@
+C:\Users\DELL\source\repos\ABook_DBConnection\ABook_DBConnection\bin\Debug\ABook_DBConnection.exe.config
+C:\Users\DELL\source\repos\ABook_DBConnection\ABook_DBConnection\bin\Debug\ABook_DBConnection.exe
+C:\Users\DELL\source\repos\ABook_DBConnection\ABook_DBConnection\bin\Debug\ABook_DBConnection.pdb
+C:\Users\DELL\source\repos\ABook_DBConnection\ABook_DBConnection\obj\Debug\ABook_DBConnection.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ABook_DBConnection\ABook_DBConnection\obj\Debug\ABook_DBConnection.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\ABook_DBConnection\ABook_DBConnection\obj\Debug\ABook_DBConnection.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ABook_DBConnection\ABook_DBConnection\obj\Debug\ABook_DBConnection.exe
+C:\Users\DELL\source\repos\ABook_DBConnection\ABook_DBConnection\obj\Debug\ABook_DBConnection.pdb
